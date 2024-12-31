@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.74f4cb10.css",
-    "main.js": "/static/js/main.098c5985.js",
-    "static/media/olx-logo.png": "/static/media/olx-logo.b3f099a2fe7978c70944.png",
-    "index.html": "/index.html",
-    "main.74f4cb10.css.map": "/static/css/main.74f4cb10.css.map",
-    "main.098c5985.js.map": "/static/js/main.098c5985.js.map"
+    "main.css": "/olx/static/css/main.74f4cb10.css",
+    "main.js": "/olx/static/js/main.d961096b.js",
+    "static/media/olx-logo.png": "/olx/static/media/olx-logo.b3f099a2fe7978c70944.png",
+    "index.html": "/olx/index.html",
+    "main.74f4cb10.css.map": "/olx/static/css/main.74f4cb10.css.map",
+    "main.d961096b.js.map": "/olx/static/js/main.d961096b.js.map"
   },
   "entrypoints": [
     "static/css/main.74f4cb10.css",
-    "static/js/main.098c5985.js"
+    "static/js/main.d961096b.js"
   ]
 }
