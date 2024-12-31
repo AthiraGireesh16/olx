@@ -4,7 +4,7 @@ import { getAuth } from 'firebase/auth';
 import { getFirestore } from 'firebase/firestore';
 import { getStorage } from 'firebase/storage'; 
 const firebaseConfig = {
-  apiKey: "AIzaSyDq9w6YyxvkScmt6Qb54rht9iD52tmhVWk",
+  apiKey: "your_api_key",
   authDomain: "olx-clone-cc8e6.firebaseapp.com",
   projectId: "olx-clone-cc8e6",
   storageBucket: "olx-clone-cc8e6.appspot.com",
